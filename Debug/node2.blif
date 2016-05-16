@@ -1,0 +1,11 @@
+.model top
+.inputs x1 x2
+.outputs f
+
+.names x1 x2 g
+1- 1
+
+.names x1 x2  h
+01 1
+
+.end

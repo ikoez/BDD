@@ -1,0 +1,9 @@
+T[2].var=2;
+			T[2].low=0;
+			T[2].high=1;
+			T[3].var=1;
+			T[3].low=0;
+			T[3].high=2;
+			T[4].var=0;
+			T[4].low=3;
+			T[4].high=1;
